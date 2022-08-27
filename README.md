@@ -1,5 +1,5 @@
 # CSC-510
-![image](https://app.travis-ci.com/wangz35/CSC-510.svg?branch=main)
+![image](https://app.travis-ci.com/github/wangz35/CSC-510-HW1/builds/254901796#L196)
 ![DOI](https://zenodo.org/badge/528639981.svg)
 
 This repository contains the codework of the project VowelCheck. The aim of this project is to provide a function to determine whether a given character input is a consonant of a vowel. This code provides correct outputs whether the character is given in upper or lower case.
