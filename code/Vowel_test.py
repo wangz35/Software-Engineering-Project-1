@@ -1,10 +1,10 @@
 import Code as c
-def uppercase_vowel():
+def test_uppercase_vowel():
     assert(c.vowel("A")) == 1
-def lowercase_vowel():
+def test_lowercase_vowel():
     assert(c.vowel("e")) == 1
-def uppercase_consonant():
+def test_uppercase_consonant():
     assert(c.vowel("b")) == 0
-def capital_consonant():
+def test_capital_consonant():
     assert(c.vowel("n")) == 0
 
