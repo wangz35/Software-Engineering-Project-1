@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='CSC-510-HW1',
+    name='vowelcheck',
     version='1.0.0',
     packages=find_packages(where="code"),
     package_dir={"": "code"},
