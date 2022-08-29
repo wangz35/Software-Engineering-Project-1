@@ -1,4 +1,4 @@
-#Contributing
+# Contributing
 
 This project is Homework 1 for CSC-510 class of Group 39: Vowel Checker. This project and repository was developed by these fellow coders:
 * Aman Kumar
