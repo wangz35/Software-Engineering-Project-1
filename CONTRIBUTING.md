@@ -31,7 +31,7 @@ To help us make Vowel Checker the best it can be, please make sure to go through
 There are many ways you can help us by making Vowel Checker better.
 
 ### Reporting Bugs
-If you found a bug in our system please report it to us so we can publish a fix for it. Before submitting a bug report to us please make sure to have read our [Readme](README.md) file as it contains certain restrictions our program has. If you want to contribute to an aspect that isn't yet supported by our program, please feel free to [suggest us enhancements](#suggesting-enhancements)
+If you found a bug in our system please report it to us so we can publish a fix for it. Before submitting a bug report to us please make sure to have read our [Readme](README.md) file as it contains certain restrictions our program has. If you want to contribute to an aspect that isn't yet supported by our program, please feel free to [suggest us enhancements](#suggesting-enhancements).
 
 ### Suggesting Enhancements
 If you want to expand the capabilities of Vowel Checker, please feel free to get in contact with any of our collaborators regarding your suggestions. Please make sure to provide as many details as you can to allow us to give you the best Vowel Checker possible.
