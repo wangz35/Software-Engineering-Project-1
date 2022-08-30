@@ -1,6 +1,6 @@
 # CSC-510 Homework 1 - Group 39 - Vowel Checker
-![image](https://app.travis-ci.com/wangz35/CSC-510.svg?branch=main)
-![DOI](https://zenodo.org/badge/528639981.svg)
+[![Build Status](https://app.travis-ci.com/wangz35/CSC-510-HW1.svg?branch=main)](https://app.travis-ci.com/wangz35/CSC-510-HW1)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7023753.svg)](https://doi.org/10.5281/zenodo.7023753)
 
 ## Description
 This repository contains the codework of the project VowelCheck. The aim of this project is to provide a function to determine whether a given character input is a consonant of a vowel. This code provides correct outputs whether the character is given in upper or lower case.
