@@ -1,4 +1,4 @@
-import vowel as c
+import vowelcheck as c
 def test_uppercase_vowel():
     assert(c.vowel("A")) == 1
 def test_lowercase_vowel():
