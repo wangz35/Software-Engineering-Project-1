@@ -1,4 +1,10 @@
-import vowelcheck as v
+try:
+    import vowelcheck as v
+except ImportError as e:
+    import sys
+    sys.path.append("../")
+
+#import vowelcheck as v
 def test_uppercase_vowel():
     assert(v.vowel("A")) == 1
 def test_lowercase_vowel():
