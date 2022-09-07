@@ -5,6 +5,7 @@
 [![Contributors](https://img.shields.io/github/contributors/wangz35/CSC-510-HW1)](https://github.com/wangz35/CSC-510-HW1/graphs/contributors)
 ![Supports Python](https://img.shields.io/pypi/pyversions/pytest)
 [![GitHub Release](https://img.shields.io/github/release/wangz35/CSC-510-HW1.svg)](https://github.com/wangz35/CSC-510-HW1/releases)
+![Codecov](https://img.shields.io/codecov/c/github/wangz35/CSC-510-HW1)
 
 ## Description
 This repository contains the codework of the project VowelCheck. The aim of this project is to provide a function to determine whether a given character input is a consonant of a vowel. This code provides correct outputs whether the character is given in upper or lower case.
