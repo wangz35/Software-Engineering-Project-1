@@ -1,6 +1,6 @@
 # CSC-510 Homework 1 - Group 39 - Vowel Checker
 [![Build Status](https://app.travis-ci.com/wangz35/CSC-510-HW1.svg?branch=main)](https://app.travis-ci.com/wangz35/CSC-510-HW1)
-[![Build Status](https://github.com/wangz35/CSC-510-HW1/actions/workflows/github-actions-build.yml/badge.svg)](https://github.com/wangz35/CSC-510-HW1/actions)
+<a href="https://github.com/wangz35/CSC-510-HW1/actions"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/wangz35//CSC-510-HW1/Python%20Calculator"></a>
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7023753.svg)](https://doi.org/10.5281/zenodo.7023753)
 [![Contributors](https://img.shields.io/github/contributors/wangz35/CSC-510-HW1)](https://github.com/wangz35/CSC-510-HW1/graphs/contributors)
 ![Supports Python](https://img.shields.io/pypi/pyversions/pytest)
