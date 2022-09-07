@@ -1,3 +1,5 @@
 language: python
 script:
   - pytest
+after_succss:
+  - bash <(curl -s https://codecov.io/bash)
